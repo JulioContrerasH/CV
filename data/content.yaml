@@ -49,9 +49,11 @@ Experience:
         Badges: ['QGIS', 'R', 'PostGIS', 'Geoserver']
   - Employer: National Commission for Aerospace Research and Development
     Place: Lima, Perú
-      Title: Intership
-      Date: Feb 2017 - Nov 2018
-      Details:
+    Class:
+    Positions:
+      - Title: Intership 
+        Date: Feb 2017 - Nov 2018
+        Details:
           - Oversaw the organization and management of the geospatial database
           - Development and implementation of methodologies using the Peruvian satellite system PeruSAT-1
           - Multispectral and hyperspectral satellite image processing

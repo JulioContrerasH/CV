@@ -15,41 +15,46 @@ BasicInfo:
 Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Experience:
-  - Employer: United Nations Development Program 
+  - Employer: United Nations Development Programme - UNDP
     Place: Lima, Perú
     Positions:
       - Title: Specialist in Geographic Information Systems
         Date: Oct 2019 - Dec 2023
         Details:
-          - Developed customized cartographic products, focusing on efficiency and project-specific needs.
-          - Conducted extensive fieldwork in various regions, gathering and analyzing geospatial data for practical applications.
-          - Utilized programming skills to automate complex tasks, significantly enhancing project workflow efficiency.
-          - Played a key role in the development of national-level map web services and management of large-scale geospatial databases, improving data accessibility and management.
-        Badges: ['ArcGIS', 'QGIS', 'Python', 'R', 'Javascript', 'HTML', 'CSS', 'Leaflet']
-      
+          - Created tailored cartographic products for specific projects efficiently.
+          - Conducted fieldwork to analyze geospatial data for practical uses.
+          - Automated tasks through programming, boosting workflow efficiency.
+          - Key contributor to national map services and large geospatial database management, enhancing data access and management.
+
+        Badges: ['ArcGIS', 'ArcGIS Online', 'Python', 'R', 'QGIS', 'Javascript', 'HTML', 'CSS', 'Leaflet']    
   - Employer: UG21 Consultores de Ingeniería S.L. 
     Place: Lima, Perú
     Positions:
       - Title: Assistant in Geographic Information System
         Date: May 2019 - Sep 2019
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Analyzed urban development trends via geospatial data.
+          - Designed regulatory-compliant urban plans using GIS.
+          - Fostered interdisciplinary collaboration to meet project objectives.
+        Badges: ['ArcGIS', 'Python', 'QGIS', 'R']
+  - Employer: United Nations Development Programme - UNDP
+    Place: Lima, Perú
+    Class: 
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Assistant in Geographic Information System
+        Date: Nov 2018 - Feb 2019
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Optimized geospatial data organization for analysis.
+          - Supported geoportal deployment using open-source software.
+        Badges: ['QGIS', 'R', 'PostGIS', 'Geoserver']
+  - Employer: National Commission for Aerospace Research and Development
+    Place: Lima, Perú
+      Title: Intership
+      Date: Feb 2017 - Nov 2018
+      Details:
+          - Oversaw the organization and management of the geospatial database
+          - Development and implementation of methodologies using the Peruvian satellite system PeruSAT-1
+          - Multispectral and hyperspectral satellite image processing
 
 Education:
   - Course: BSc & MSc in Biomedical Engineering and Biophysics

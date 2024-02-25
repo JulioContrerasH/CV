@@ -19,39 +19,32 @@ Experience:
     Place: Lima, Perú
     Positions:
       - Title: Specialist in Geographic Information Systems
-        Date: Jan 2020 - Present
+        Date: Oct 2019 - Dec 2023
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Developed customized cartographic products, focusing on efficiency and project-specific needs.
+          - Conducted extensive fieldwork in various regions, gathering and analyzing geospatial data for practical applications.
+          - Utilized programming skills to automate complex tasks, significantly enhancing project workflow efficiency.
+          - Played a key role in the development of national-level map web services and management of large-scale geospatial databases, improving data accessibility and management.
+        Badges: ['ArcGIS', 'QGIS', 'Python', 'R', 'Javascript', 'HTML', 'CSS', 'Leaflet']
+
+Experience:
+  - Employer: UG21 Consultores de Ingeniería S.L. 
+    Place: Lima, Perú
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Assistant in Geographic Information System
+        Date: May 2019 - Sep 2019
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Analyzed geospatial data to identify trends and opportunities in urban development.
+          - Developed urban planning designs compliant with regulations using GIS, with a focus on zoning and public spaces.
+          - Collaborated across disciplines, integrating various data sets and working with professionals to ensure urban plans met project goals.
+        Badges: ['ArcGIS', 'R', 'QGIS', 'Python']
+        
+ Experience:       
+  - Employer: United Nations Development Program 
+    Place: Lima, Perú
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Assistant in Geographic Information System
+        Date: Nov 2018 - Feb 2019
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
           - Viverra aliquet eget sit amet tellus cras adipiscing

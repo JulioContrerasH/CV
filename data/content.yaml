@@ -26,25 +26,24 @@ Experience:
           - Utilized programming skills to automate complex tasks, significantly enhancing project workflow efficiency.
           - Played a key role in the development of national-level map web services and management of large-scale geospatial databases, improving data accessibility and management.
         Badges: ['ArcGIS', 'QGIS', 'Python', 'R', 'Javascript', 'HTML', 'CSS', 'Leaflet']
-
-Experience:
+      
   - Employer: UG21 Consultores de Ingeniería S.L. 
     Place: Lima, Perú
     Positions:
       - Title: Assistant in Geographic Information System
         Date: May 2019 - Sep 2019
         Details:
-          - Analyzed geospatial data to identify trends and opportunities in urban development.
-          - Developed urban planning designs compliant with regulations using GIS, with a focus on zoning and public spaces.
-          - Collaborated across disciplines, integrating various data sets and working with professionals to ensure urban plans met project goals.
-        Badges: ['ArcGIS', 'R', 'QGIS', 'Python']
-        
- Experience:       
-  - Employer: United Nations Development Program 
-    Place: Lima, Perú
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+  - Employer: Institute of Neural Engineering
+    Place: Graz, AT
+    Class: "experience__extra_padding"
     Positions:
-      - Title: Assistant in Geographic Information System
-        Date: Nov 2018 - Feb 2019
+      - Title: Master's Thesis Research Intern
+        Date: Oct 2016 - Jun 2017
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
           - Viverra aliquet eget sit amet tellus cras adipiscing

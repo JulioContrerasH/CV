@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Perú
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Geographical engineer with over 6 years of experience, skilled in spatial analysis and map design across both urban and rural settings. Specializes in the innovative use of geospatial tools and open-source software for project automation, aiming to make geospatial information accessible and understandable to a broad audience. Team-oriented with a proven ability to adapt to unexpected situations, committed to leading projects that employ efficient and ethical geospatial technologies to address environmental and social challenges.
 
 Experience:
   - Employer: United Nations Development Programme - UNDP
@@ -46,7 +46,7 @@ Experience:
         Details:
           - Optimized geospatial data organization for analysis.
           - Supported geoportal deployment using open-source software.
-        Badges: ['QGIS', 'R', 'PostGIS', 'Geoserver']
+        Badges: ['QGIS', 'R', 'ENVI','PostGIS', 'Geoserver']
   - Employer: Peruvian Space Agency - CONIDA
     Place: Lima, Perú
     Class:
@@ -119,9 +119,7 @@ Languages:
   - Name: Spanish 
     Level: Native
   - Name: English
-    Level: C1
-    Details: 
-      - PTE Academic: Overall Score 68 
+    Level: B2 - PTE Academic Overall Score 68 
 
 Interests:
   - Volunteering

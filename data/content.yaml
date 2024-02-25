@@ -95,34 +95,30 @@ Skills:
       - HTML 
       - Javascript
       - CSS
-  - Family: Frameworks
+  - Family: GIS Softwares
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
+      - ArcGIS
+      - ArcGIS Online
+      - QGIS
+      - Geoserver
+      - Leaflet
+      - PostGIS
   - Family: Developer Tools
     Items:
       - Git
-      - Docker
-      - Jenkins
-      - AWS
   - Family: Misc
     Items:
       - Adobe Tools
       - LaTeX
+      - Power BI
 
 Languages:
 
   - Name: English
     Level: C1
 
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
-
 Interests:
-  - Environmental volunteering
+  - Volunteering
   - Reading
   - Hiking
   - Traveling

@@ -8,7 +8,7 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: leslyarcelly.213@gmail.com
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+      Info: <a class="contact__link" href="https://lbautistab13.github.io/" target="_blank">lbautistab13.github.io</a>
     - Icon: fas fa-map-marker-alt
       Info: Perú
 
@@ -115,16 +115,15 @@ Skills:
 Languages:
 
   - Name: English
-    Level: C2
+    Level: C1
 
 Diplomas:
   - ISTQB Tester Certification (2019)
   - English Cambridge CAE (2009)
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
+  - Environmental volunteering
+  - Reading
+  - Hiking
+  - Traveling
   - Design
-  - Languages

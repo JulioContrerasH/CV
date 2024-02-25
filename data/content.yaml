@@ -47,7 +47,7 @@ Experience:
           - Optimized geospatial data organization for analysis.
           - Supported geoportal deployment using open-source software.
         Badges: ['QGIS', 'R', 'PostGIS', 'Geoserver']
-  - Employer: National Commission for Aerospace Research and Development
+  - Employer: Peruvian Space Agency - CONIDA
     Place: Lima, Perú
     Class:
     Positions:
@@ -59,21 +59,22 @@ Experience:
           - Multispectral and hyperspectral satellite image processing
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: Bachelor’s degree in Geographical Engineering
+    Place: National University of San Marcos
+    Date: Mar 2014 - Dec 2019
+    Details: Focused on Territorial Management and GIS, blending sustainable development, multidisciplinary integration, and spatial data analysis
 
 References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
+  - Name: José Jesus Pasapera Gonzales
+    Relation: Director of Technical Science and Space Applications of The Peruvian Space Agency - CONIDA
+
     Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 790
+      Info: +51 966 265 887
     - Icon: fas fa-envelope
-      Info: contact@person-one.com
+      Info: jpasapera@conida.gob.pe
     - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
+      Info: Lima, Perú
   - Name: Person Two
     Relation: Boss at Super Cool Company
     Contacts:

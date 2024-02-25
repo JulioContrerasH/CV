@@ -75,29 +75,26 @@ References:
       Info: jpasapera@conida.gob.pe
     - Icon: fas fa-map-marker-alt
       Info: Lima, Perú
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
+  - Name: Alfredo Zerga Ocaña
+    Relation: Project Manager of Disaster Risk Management - UNDP
+
     Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 791
+      Info: +51 996 336 433
     - Icon: fas fa-envelope
-      Info: contact@person-two.com
+      Info: alfredo.zerga@undp.org
     - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
+      Info: Lima, Perú
 
 
 Skills:
   - Family: Programming
     Items:
       - Python
-      - HTML (including Jinja)
+      - R
+      - HTML 
       - Javascript
       - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
   - Family: Frameworks
     Items:
       - Django
@@ -116,14 +113,9 @@ Skills:
       - LaTeX
 
 Languages:
-  - Name: Portuguese
-    Level: Native
+
   - Name: English
     Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
 
 Diplomas:
   - ISTQB Tester Certification (2019)

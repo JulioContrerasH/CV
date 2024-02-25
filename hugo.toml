@@ -1,0 +1,5 @@
+baseURL = "https://ingrid1802.github.io/cv/"
+languageCode = "en-us"
+publishDir = "docs"
+title = "cv"
+

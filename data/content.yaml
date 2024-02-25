@@ -26,7 +26,7 @@ Experience:
           - Automated tasks through programming, boosting workflow efficiency.
           - Key contributor to national map services and large geospatial database management, enhancing data access and management.
 
-        Badges: ['ArcGIS', 'ArcGIS Online', 'Python', 'R', 'QGIS', 'Javascript', 'HTML', 'CSS', 'Leaflet']    
+        Badges: ['ArcGIS', 'ArcGIS Online', 'Python', 'R', 'QGIS', 'Earth Engine', 'Javascript', 'HTML', 'CSS', 'Leaflet']    
   - Employer: UG21 Consultores de Ingeniería S.L. 
     Place: Lima, Perú
     Positions:
@@ -57,6 +57,7 @@ Experience:
           - Oversaw the organization and management of the geospatial database
           - Development and implementation of methodologies using the Peruvian satellite system PeruSAT-1
           - Multispectral and hyperspectral satellite image processing
+        Badges: ['ArcGIS','QGIS','ENVI + IDL', 'MATLAB', 'ERDAS']
 
 Education:
   - Course: Bachelor’s degree in Geographical Engineering
@@ -100,6 +101,7 @@ Skills:
       - ArcGIS
       - ArcGIS Online
       - QGIS
+      - Google Earth Engine
       - Geoserver
       - Leaflet
       - PostGIS
@@ -114,8 +116,12 @@ Skills:
 
 Languages:
 
+  - Name: Spanish 
+    Level: Native
   - Name: English
     Level: C1
+    Details: 
+      - PTE Academic: Overall Score 68 
 
 Interests:
   - Volunteering

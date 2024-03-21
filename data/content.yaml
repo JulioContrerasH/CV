@@ -57,7 +57,7 @@ Experience:
           - Oversaw the organization and management of the geospatial database
           - Development and implementation of methodologies using the Peruvian satellite system PeruSAT-1
           - Multispectral and hyperspectral satellite image processing
-        Badges: ['ArcGIS','QGIS','ENVI + IDL', 'MATLAB', 'ERDAS']
+        Badges: ['ArcGIS','QGIS','ENVI + IDL', 'MATLAB']
 
 Education:
   - Course: Bachelor’s degree in Geographical Engineering
@@ -111,7 +111,6 @@ Skills:
   - Family: Misc
     Items:
       - Adobe Tools
-      - LaTeX
       - Power BI
 
 Languages:

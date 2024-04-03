@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fab fa-linkedin-in
       Info: <a class="contact__link" href="https://www.linkedin.com/in/julio-cesar-contreras-huerta-254030176/" target="_blank">Julio Cesar Contreras Huerta</a>
     - Icon: fab fa-twitter
-      Info: <a class="contact__link" href="https://twitter.com/JulioCe67844735" target="_blank">@JulioCe67844735</a>
+      Info: <a class="contact__link" href="https://twitter.com/JulioCe67844735" target="_blank">@JulioContreras</a>
     - Icon: fas fa-map-marker-alt
       Info: Lima, Peru
 

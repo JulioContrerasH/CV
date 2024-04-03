@@ -2,20 +2,27 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     line-height: 1.7;
-    font-size: 1.12rem;
+    font-size: 1rem;
     color: $color-dark;
+    text-align: justify;
 }
 
 .mainHeading {
     text-transform: uppercase;
-    font-size: 5rem;
+    font-size: 6rem;
+    text-align: left;
     color: $color-secondary;
 
     & span {
         color: $color-primary;
     }
 }
-
+.skills{
+    text-align: left;
+}
+.experience{
+    text-align: left;
+}
 .section__title {
     font-size: 2.1rem;
     color: $color-dark;
@@ -26,3 +33,4 @@ h2 {
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
 }
+

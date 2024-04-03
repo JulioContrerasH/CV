@@ -1,91 +1,93 @@
 BasicInfo:
-  FirstName: Lesly
-  LastName: Bautista Buendia
+  FirstName: Julio Cesar
+  LastName: Contreras Huerta
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +51 980 372 700
     - Icon: fas fa-envelope
-      Info: leslyarcelly.213@gmail.com
-    - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://leslybautista.github.io/" target="_blank">leslybautista.github.io</a>
+      Info: contrerasnetk@gmail.com
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://JulioContrerasH.github.io/" target="_blank">JulioContrerasH/</a>
+    - Icon: fab fa-linkedin-in
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/julio-cesar-contreras-huerta-254030176/" target="_blank">Julio Cesar Contreras Huerta</a>
+    - Icon: fab fa-twitter
+      Info: <a class="contact__link" href="https://twitter.com/JulioCe67844735" target="_blank">@JulioCe67844735</a>
     - Icon: fas fa-map-marker-alt
-      Info: Perú
+      Info: Lima, Peru
 
-Profile: Geographical engineer with over 4 years of experience, skilled in spatial analysis and map design across both urban and rural settings. Specializes in the innovative use of geospatial tools and open-source software for project automation, aiming to make geospatial information accessible and understandable to a broad audience. Team-oriented with a proven ability to adapt to unexpected situations, committed to leading projects that employ efficient and ethical geospatial technologies to address environmental and social challenges.
+Profile: With a year and a half of experience in GIS and remote sensing, I have worked on BIG DATA projects focused on environmental management. I am an expert in Google Earth Engine, specializing in automation and geoprocessing using Python, R, and JavaScript. I graduated top of my class in Geographic Engineering from the Universidad Nacional Mayor de San Marcos. Environmental studies and remote sensing are my passion. I consider myself responsible, committed, proactive, and highly efficient in multidisciplinary teams. I aspire to innovate in the field of Deep Learning and GIS web development.
 
 Experience:
-  - Employer: United Nations Development Programme - UNDP
+  - Employer: Universidad Peruana Cayetano Heredia
     Place: Lima, Perú
     Positions:
-      - Title: Specialist in Geographic Information Systems
-        Date: Oct 2019 - Dec 2023
+      - Title: Investigator
+        Date: Jul 2023 - Mar 2024
         Details:
-          - Created tailored cartographic products for specific projects efficiently.
-          - Conducted fieldwork to analyze geospatial data for practical uses.
-          - Automated tasks through programming, boosting workflow efficiency.
-          - Key contributor to national map services and large geospatial database management, enhancing data access and management.
+          - Advanced implementation of Deep Learning techniques for precise quantification of the Andes in the AndesDataCube project, significantly enhancing understanding of the mountain range.
+          - Key contribution to geospatial data analysis, identifying patterns and trends that reveal the unique complexity of the Andes.
+          - Strong commitment to exploring and applying new technologies to enrich the scientific perspective on the Andes.
+          - Active participation in innovation and continuous improvement of analysis processes to advance the scientific study of iconic mountain regions.
 
-        Badges: ['ArcGIS', 'ArcGIS Online', 'Python', 'R', 'QGIS', 'Earth Engine', 'Javascript', 'HTML', 'CSS', 'Leaflet']    
-  - Employer: UG21 Consultores de Ingeniería S.L. 
+        Badges: ['Deep Learning', 'Machine Learning', 'Application Development', 'Innovation and Problem Solving', 'Geospatial Analysis and Visualization', 'Google Earth Engine']    
+  - Employer: INSIDEO S.A.C.
     Place: Lima, Perú
     Positions:
-      - Title: Assistant in Geographic Information System
-        Date: May 2019 - Sep 2019
+      - Title: Environmental analyst
+        Date: Nov 2022 - Jun 2023
         Details:
-          - Analyzed urban development trends via geospatial data.
-          - Designed regulatory-compliant urban plans using GIS.
-          - Fostered interdisciplinary collaboration to meet project objectives.
-        Badges: ['ArcGIS', 'Python', 'QGIS', 'R']
-  - Employer: United Nations Development Programme - UNDP
-    Place: Lima, Perú
-    Class: 
-    Positions:
-      - Title: Assistant in Geographic Information System
-        Date: Nov 2018 - Feb 2019
-        Details:
-          - Optimized geospatial data organization for analysis.
-          - Supported geoportal deployment using open-source software.
-        Badges: ['QGIS', 'R', 'ENVI','PostGIS', 'Geoserver']
-  - Employer: Peruvian Space Agency - CONIDA
-    Place: Lima, Perú
-    Class:
-    Positions:
-      - Title: Intership 
-        Date: Feb 2017 - Nov 2018
-        Details:
-          - Oversaw the organization and management of the geospatial database
-          - Development and implementation of methodologies using the Peruvian satellite system PeruSAT-1
-          - Multispectral and hyperspectral satellite image processing
-        Badges: ['ArcGIS','QGIS','ENVI + IDL', 'MATLAB']
+          - Spearheaded geospatial data management in mining, leveraging GIS and big data for sustainability.
+          - Enhanced environmental practices through GIS analysis, fostering informed decisions in multidisciplinary teams.
+          - Collaborated on big data projects for sustainable mining, ensuring compliance with environmental regulations.
+          - Advocated for responsible mining with innovative GIS-enabled solutions, promoting sustainable development initiatives.
+          - Developed and maintained web applications for real-time environmental data visualization and analysis, improving stakeholder engagement.
+        Badges: ['Geographic and Environmental Data Management', 'Cartography and Geospatial Visualization', 'Environmental Practices Improvement', 'Multidisciplinary Collaboration', 'Front-end and Back-end Web Development', 'Big Data Analytics']
 
 Education:
+  - Course: Master’s degree in Artificial Intelligence
+    Place: International University of La Rioja
+    Date: Mar 2024 - Apr 2025
+
   - Course: Bachelor’s degree in Geographical Engineering
     Place: National University of San Marcos
-    Date: Mar 2014 - Dec 2019
-    Details: Focused on Territorial Management and GIS, blending sustainable development, multidisciplinary integration, and spatial data analysis
+    Date: Mar 2018 - Dec 2022
+    Details: Specializing in Earth Sciences and Remote Sensing, the program melds programming and web development to manage Earth's resources innovatively.
+  
+Certificates:
+  - <a class="contact__link" href="https://coursera.org/share/66e51844490e2b02efd98bd3023f5f62" target="_blank">
+    Big Data Specialization (2024)
+    </a>
+  - <a class="contact__link" href="https://coursera.org/share/274191a924014fd94452a47d38b6871b" target="_blank">
+    Deep Learning Specialization (2024)
+    </a>
+  - <a class="contact__link" href="https://coursera.org/share/0ae821c7cb2db755910f5d9c24b4dc9f" target="_blank">
+    Introduction to Containers w/ Docker, Kubernetes & OpenShift (2024)
+    </a>
+  - <a class="contact__link" href="https://www.udemy.com/certificate/UC-76526a8c-2f69-4da6-8b72-0e582787a176/" target="_blank">Web Development (2024)</a>
+  - <a class="contact__link" href="https://www.udemy.com/certificate/UC-1dae2dcb-1220-46f5-ae33-33dda00dc03e/" target="_blank">Machine Learning With Python (2024)</a>
+  - <a class="contact__link" href="https://drive.google.com/file/d/1p-e28zFYd_2XIZmLExseeo255j32Wkvt/view?usp=sharing" target="_blank">Deep learning applied to earth observation (2023)</a>
+  - <a class="contact__link" href="https://drive.google.com/file/d/1v_UqFQNBCNX8FG78KNEI-s79eXVzkVaM/view?usp=sharing" target="_blank">ArcGIS Pro (2022)</a>
+  - <a class="contact__link" href="https://www.udemy.com/certificate/UC-e15e63f5-079d-4af2-906b-ceab35efe8fd/" target="_blank">Excel (2022)</a>
+  - <a class="contact__link" href="https://coursera.org/share/76f8726f343e1e45f8e14d32042393a7" target="_blank">Fundamentals of GIS (2020)</a>
+  - <a class="contact__link" href="https://drive.google.com/file/d/1ODQMpskr14p51Ys-5DT5nvJs927Q456s/view?usp=sharing" target="_blank">QGIS (2019)</a>
+ 
+
+
+
 
 References:
-  - Name: José Jesus Pasapera Gonzales
-    Relation: Director of Technical Science and Space Applications of The Peruvian Space Agency - CONIDA
+  - Name: Cesar Luis Aybar Camacho
+    Relation: PhD at Image Processing Laboratory (IPL)
 
     Contacts:
     - Icon: fas fa-phone
-      Info: +51 966 265 887
+      Info: +51 977389713
     - Icon: fas fa-envelope
-      Info: jpasapera@conida.gob.pe
+      Info: csaybar@gmail.com
     - Icon: fas fa-map-marker-alt
-      Info: Lima, Perú
-  - Name: Alfredo Zerga Ocaña
-    Relation: Project Manager of Disaster Risk Management - UNDP
-
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +51 996 336 433
-    - Icon: fas fa-envelope
-      Info: alfredo.zerga@undp.org
-    - Icon: fas fa-map-marker-alt
-      Info: Lima, Perú
+      Info: Valencia, Spain
+  
 
 
 Skills:
@@ -98,8 +100,7 @@ Skills:
       - CSS
   - Family: GIS Softwares
     Items:
-      - ArcGIS
-      - ArcGIS Online
+      - ArcGIS Pro 
       - QGIS
       - Google Earth Engine
       - Geoserver
@@ -122,9 +123,9 @@ Languages:
 
 Interests:
   - Volunteering
-  - Reading
   - Hiking
-  - Traveling
-  - Journaling
-  - Scrapbooking 
+  - Motorcycling
+  - Fitness
+  - Running
+  - Cat-Playing
 

@@ -25,10 +25,10 @@ Experience:
       - Title: Researcher
         Date: Jul 2023 - Mar 2024
         Details:
-          - Advanced implementation of Deep Learning techniques for precise quantification of the Andes in the AndesDataCube project, significantly enhancing understanding of the mountain range.
-          - Key contribution to geospatial data analysis, identifying patterns and trends that reveal the unique complexity of the Andes.
-          - Strong commitment to exploring and applying new technologies to enrich the scientific perspective on the Andes.
-          - Active participation in innovation and continuous improvement of analysis processes to advance the scientific study of iconic mountain regions.
+          - Applied advanced super-resolution techniques on satellite databases (MSS, TM, OLI, MSI) enhancing cloud and glacier detection.
+          - Developed Deep Learning algorithms for precise segmentation of sugarcane crops and soil cover analysis in Northern Peru.
+          - Implemented classification methods to assess changes in land cover and glaciers in the Andes, aiding environmental research and conservation.
+          - Conceptualized an interactive web platform design for dynamic visualization of land cover and glacier classifications in the Andes.
 
         Badges: ['Deep Learning', 'Machine Learning', 'Application Development', 'Innovation and Problem Solving', 'Geospatial Analysis and Visualization', 'Google Earth Engine']    
   - Employer: INSIDEO S.A.C.
@@ -37,11 +37,11 @@ Experience:
       - Title: Environmental analyst
         Date: Nov 2022 - Jun 2023
         Details:
-          - Spearheaded geospatial data management in mining, leveraging GIS and big data for sustainability.
-          - Enhanced environmental practices through GIS analysis, fostering informed decisions in multidisciplinary teams.
-          - Collaborated on big data projects for sustainable mining, ensuring compliance with environmental regulations.
-          - Advocated for responsible mining with innovative GIS-enabled solutions, promoting sustainable development initiatives.
-          - Developed and maintained web applications for real-time environmental data visualization and analysis, improving stakeholder engagement.
+          - Led EIS modifications for Buenaventura, Corona, and Impala projects in Peru, integrating GIS and big data for sustainability.
+          - Utilized GIS for environmental assessments at Buenaventura and Yumpag Carama, aiding decision-making and teamwork.
+          - Employed big data analytics for Buenaventura and Corona's technical reports and EIS, ensuring compliance with regulations.
+          - Developed web scraping tools for enhanced data collection, supporting Buenaventura and Corona's sustainability efforts.
+          - Created web apps for real-time environmental data for Buenaventura and Impala, improving stakeholder engagement.
         Badges: ['Geographic and Environmental Data Management', 'Cartography and Geospatial Visualization', 'Environmental Practices Improvement', 'Multidisciplinary Collaboration', 'Front-end and Back-end Web Development', 'Big Data Analytics']
 
 Education:
@@ -62,8 +62,9 @@ Certificates:
   - <a class="contact__link" href="https://coursera.org/share/274191a924014fd94452a47d38b6871b" target="_blank">
     Deep Learning Specialization (2024)
     </a>
-  - <a class="contact__link" href="https://coursera.org/share/0ae821c7cb2db755910f5d9c24b4dc9f" target="_blank">
-    Introduction to Containers w/ Docker, Kubernetes & OpenShift (2024)
+  
+  - <a class="contact__link" href="https://coursera.org/share/e0e1243d55869e9d982cc12ce65b241a" target="_blank">
+    IBM Full Stack Software Developer (2024)
     </a>
   - <a class="contact__link" href="https://www.udemy.com/certificate/UC-76526a8c-2f69-4da6-8b72-0e582787a176/" target="_blank">Web Development (2024)</a>
   - <a class="contact__link" href="https://www.udemy.com/certificate/UC-1dae2dcb-1220-46f5-ae33-33dda00dc03e/" target="_blank">Machine Learning With Python (2024)</a>
